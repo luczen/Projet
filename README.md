@@ -14,7 +14,7 @@ documentés sous forme de procédures techniques.
 ##  Projets terminés
 - [MDT – Déploiement Windows 11](projects/finished/mdt-windows11)
 - [SCCM – Déploiement OS, applications et mises à jour](projects/finished/sccm)
-- [Zabbix – Supervision infrastructure](projects/finished/zabbix-supervision)
+- [Zabbix – Supervision infrastructure](projects/finished/Zabbix/Alertes espaces disques)
 
 ##  Projets en cours
 - [Wazuh – SIEM & Sécurité](projects/ongoing/wazuh-siem)
