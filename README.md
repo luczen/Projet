@@ -18,7 +18,6 @@ documentés sous forme de procédures techniques.
 
 ##  Projets en cours
 - [Wazuh – SIEM & Sécurité](projects/ongoing/wazuh-siem)
-- [HAProxy – Publication de services](projects/ongoing/haproxy-publication)
 
 ##  Compétences
 - Réseau (VLAN, routage, firewall)
