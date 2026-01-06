@@ -13,7 +13,7 @@ documentés sous forme de procédures techniques.
 
 ## 📂 Projets terminés
 - [MDT – Déploiement Windows 11](projects/finished/mdt-windows11)
-- [OPNsense – Firewall & VLAN](projects/finished/opnsense-firewall)
+- [SCCM – Déploiement OS, applications et mises à jour](projects/finished/sccm)
 - [Zabbix – Supervision infrastructure](projects/finished/zabbix-supervision)
 
 ## 🚧 Projets en cours
