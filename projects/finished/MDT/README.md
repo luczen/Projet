@@ -1,4 +1,4 @@
-# MDT – Microsoft Deployment Toolkit
+ MDT – Microsoft Deployment Toolkit
 
 Ce dossier contient la documentation et les procédures liées à l'utilisation de **Microsoft Deployment Toolkit (MDT)** pour le déploiement et la gestion de systèmes Windows.
 
