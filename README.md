@@ -1,9 +1,9 @@
 # Projets IT
 
- Bonjour,
+Bonjour,
 
-Je suis étudiant / alternant en administration systèmes et réseaux.
-Ce dépôt regroupe mes projets personnels et professionnels,
+Je suis étudiant / alternant en administration systèmes et réseaux.  
+Ce dépôt regroupe mes projets personnels et professionnels,  
 documentés sous forme de procédures techniques.
 
 ##  Objectifs
@@ -14,10 +14,13 @@ documentés sous forme de procédures techniques.
 ##  Projets terminés
 - [MDT – Déploiement Windows 11](projects/finished/mdt-windows11)
 - [SCCM – Déploiement OS, applications et mises à jour](projects/finished/sccm)
-- [Zabbix – Supervision infrastructure](projects/finished/Zabbix/Alertes espaces disques)
+- [Zabbix – Alertes espaces disques](projects/finished/Zabbix/Alertes%20espaces%20disques)
+- [ECF AFPA – Virtualisation](projects/finished/ecf-afpa-virtualisation)
 
 ##  Projets en cours
 - [Wazuh – SIEM & Sécurité](projects/ongoing/wazuh-siem)
+- [Bastion d’administration](projects/ongoing/Bastion)
+- [BookStack – Documentation interne](projects/ongoing/Bookstack)
 
 ##  Compétences
 - Réseau (VLAN, routage, firewall)
